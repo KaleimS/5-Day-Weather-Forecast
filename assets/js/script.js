@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    const APIKey = "46c140598333e3f668b93c7a5dbcd145";
+    const APIKey = "";
 
     const searchForm = $("search-form");
     const searchInput = $("search-input");
